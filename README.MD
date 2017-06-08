@@ -2,6 +2,8 @@
 
 An easy-to-use Python library for maintaing the optimal battery life for windows 10.
 
+[https://pypi.python.org/pypi?:action=display&name=win10batteryoptimizer&version=0.1.1](https://pypi.python.org/pypi?:action=display&name=win10batteryoptimizer&version=0.1.1)
+
 
 ## Installation
 
