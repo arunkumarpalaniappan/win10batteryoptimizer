@@ -24,6 +24,7 @@ win10toast
 ## Example
 
 ```
+import time
 from win10batteryoptimizer import Notifier
 notifier = Notifier()
     battery_percent = notifier.get_battery_level()
