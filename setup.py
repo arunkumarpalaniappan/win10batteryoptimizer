@@ -41,7 +41,7 @@ setup(
         "Development Status :: 3 - Alpha",
         "Topic :: Utilities",
         'Operating System :: Microsoft',
-        'Environment :: Win32 (Microsoft Windows 10)',
-        "License :: MIT",
+        'Environment :: Win32 (MS Windows)',
+        "License :: OSI Approved :: MIT License",
     ],
 )
