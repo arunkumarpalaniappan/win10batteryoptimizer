@@ -1,4 +1,4 @@
-##Battery Optimizer
+## Battery Optimizer
 
 An easy-to-use Python library for maintaing the optimal battery life for windows 10.
 
